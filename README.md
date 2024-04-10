@@ -1,1 +1,1 @@
-QR Code Geenrator project made using QRCoder
+QR Code Geenrator project made using QRCoder.
